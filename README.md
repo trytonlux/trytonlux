@@ -1,19 +1,16 @@
 ```yaml
-tryton-vanmeer:
-  os:
-    - Arch Linux
-    - Fedora
+tryton:
+  os: Fedora Workstation
 
   languages:
    - Python
+   - Rust
    - Go
    - Java
    - Vala
-   - Rust
    - C
    - Bash / POSIX Shell
    - C#
-   - SQL
    - JavaScript
 
   desktop: GNOME
