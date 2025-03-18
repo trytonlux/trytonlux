@@ -1,20 +1,10 @@
 ```yaml
-tryton:
+trytonlux:
   os: "Fedora Workstation"
-  languages:
-   - "Python"
-   - "Rust"
-   - "Go"
-   - "Java"
-   - "Vala"
-   - "C"
-   - "Bash / POSIX Shell"
-   - "C#"
-   - "JavaScript"
   desktop: "GNOME"
   editor: "VSCode"
-  terminal: "Tilix"
+  terminal: "Ptyxis"
   shell: "fish"
-  font: "JetBrains Mono"
-  colors: "Dracula"
+  font: "Adwaita Mono"
+  colors: "Catppuccin Mocha"
 ```
